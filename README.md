@@ -9,5 +9,5 @@ additional useful characteristics (e.g. it is stored in sorted order, which allo
 unordered_map will be faster on insert and delete than a map.
 
 
-auto specifier (since C++11)
+auto specifier (since C++11)<br />
 For variables, specifies that the type of the variable that is being declared will be automatically deduced from its initializer. For functions, specifies that the return type is a trailing return type or will be deduced from its return statements (since C++14). for non-type template parameters, specifies that the type will be deduced from the argument (since C++17)
